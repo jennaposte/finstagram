@@ -25,3 +25,4 @@ class Post < ActiveRecord::Base
         self.comments.size
     end    
 end 
+
